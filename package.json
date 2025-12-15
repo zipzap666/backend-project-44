@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.1",
+  "description": "brain-games",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zipzap666/backend-project-44.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zipzap666/backend-project-44/issues"
+  },
+  "homepage": "https://github.com/zipzap666/backend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
